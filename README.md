@@ -15,7 +15,7 @@
 data-video это датаатрибут в который нужно вставить ссылку на видео.
 ## Откуда брать ссылку?
 1. Нужно нажать правой кнопкой мыши на видео и выбрать "копировать код для встраивания"
-![Alt text](./Снимок экрана 2024-09-04 в 16.59.42.png)
+![Alt text](https://github.com/Zalr765/rami-readme/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-09-04%20%D0%B2%2016.59.42.png)
 получиться что-то на подобии этого
 ```
 <iframe src="https://vk.com/video_ext.php?oid=-26892927&id=456240257&hash=d305e90bcd9512c6" width="640" height="360" frameborder="0" allowfullscreen="1" allow="autoplay; encrypted-media; fullscreen; picture-in-picture"></iframe>
