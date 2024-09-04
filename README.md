@@ -29,4 +29,4 @@ https://vk.com/video_ext.php?oid=-26892927&id=456240257&hash=d305e90bcd9512c6
 В data-img находится ссылка на картинку
 ## Если хотим взять preview с вк
 Открываем код элемента и ищем класс и из него берем ссылку на картинку
-![Alt text](https://i.ibb.co/wgkxQR7/image.png)
+![Alt text](https://github.com/Zalr765/rami-readme/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-09-04%20%D0%B2%2017.10.31.png)
