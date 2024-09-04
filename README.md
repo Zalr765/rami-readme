@@ -11,12 +11,11 @@
     </div>
 </div>
 ```
-![Снимок экрана 2024-09-04 в 16.59.42](./Снимок экрана 2024-09-04 в 16.59.42.png)
 ## data-video
 data-video это датаатрибут в который нужно вставить ссылку на видео.
 ## Откуда брать ссылку?
 1. Нужно нажать правой кнопкой мыши на видео и выбрать "копировать код для встраивания"
-![Alt text](https://i.ibb.co/8j7Z9dW/2024-09-04-16-59-42.png)
+![Alt text](./Снимок экрана 2024-09-04 в 16.59.42.png)
 получиться что-то на подобии этого
 ```
 <iframe src="https://vk.com/video_ext.php?oid=-26892927&id=456240257&hash=d305e90bcd9512c6" width="640" height="360" frameborder="0" allowfullscreen="1" allow="autoplay; encrypted-media; fullscreen; picture-in-picture"></iframe>
